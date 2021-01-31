@@ -1,0 +1,29 @@
+{
+  "php-docblocker.author": {
+    "name": "Michael Chow",
+    "email": "chowmichael@gmail.com"
+  },
+  "php-docblocker.gap": true,
+  "intelephense.environment.phpVersion": "7.4.10",
+  "path-intellisense.absolutePathToWorkspace": true,
+  "path-intellisense.extensionOnImport": true,
+  "php-docblocker.useShortNames": true,
+  "phpcs.executablePath": "C:\\Users\\GDA-User\\AppData\\Roaming\\Composer\\vendor\\bin\\phpcs.bat",
+  "phpcs.enable": true,
+  "phpcs.standard": "C:\\Users\\GDA-User\\AppData\\Roaming\\Composer\\vendor\\squizlabs\\php_codesniffer\\src\\Standards\\PSR12\\ruleset.xml",
+  "phpcs.ignorePatterns": ["/**/*.js"],
+  "phpcs.lintOnSave": false,
+  "phpcs.lintOnOpen": true,
+  "phpSniffer.executablesFolder": "C:\\Users\\GDA-User\\AppData\\Roaming\\Composer\\vendor\\bin",
+  "phpSniffer.standard": "C:\\Users\\GDA-User\\AppData\\Roaming\\Composer\\vendor\\squizlabs\\php_codesniffer\\src\\Standards\\PSR12\\ruleset.xml",
+  "phpcs.lintOnType": true,
+  "phpSniffer.run": "onSave",
+  "editor.detectIndentation": false,
+  "[php]": {
+    "editor.tabSize": 4,
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    }
+  }
+}
