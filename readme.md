@@ -28,6 +28,9 @@ yarn install # or npm i to Install node dependencies(>= node 9.x)
 
 npm run production # To compile assets for prod
 
+#if you don't use apache or nginx
+php artisan serve
+
 ```
 
 ## Demo:
